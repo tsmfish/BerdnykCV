@@ -1,0 +1,46 @@
+        body {    
+            background-image: url("./Photo/plane1.jpg"); 
+            background-size: 100%;
+            background-repeat: no-repeat;            
+        }
+        .info {
+            max-width: 750px;
+            background-color: rgb(165, 223, 223);    
+            font-weight: bold;
+            font-style: italic;
+            margin: 0px 0px;
+            width: 100%;
+            border: 3px solid rgb(35, 54, 56);
+            border-radius: 15px;
+        }
+        .text h1  {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            padding-top: 5px;
+        }
+        .text ol {
+            padding-left: 150px;
+            font-size: 20px;
+            color: rgb(28, 32, 22);
+        } 
+        .list li {
+            margin-bottom: 10px;
+        }
+        .photo {
+            padding-left: 20px;
+            padding-bottom: 10px;
+        }   
+        .Job {
+            padding-right: 15px;    
+            border-radius: 10%;
+            padding-bottom: 3px;
+            box-shadow: -9px -3px 0px rgb(77 65 241);
+            height: 253px; 
+            width: 350px;
+        }   
+        .job1 {
+            border-radius: 30px;
+            box-shadow: -9px -3px 0px rgb(110, 68, 40);
+            width: 340px;            
+        }
+                
